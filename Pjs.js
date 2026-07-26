@@ -1,3 +1,3 @@
              function hello() {
-        window.location.href = "https://pay.mycyn.ga/";
+        window.location.href = "https://symphonious-swan-54ca5f.netlify.app/";
     }
